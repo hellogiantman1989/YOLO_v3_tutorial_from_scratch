@@ -937,14 +937,3 @@ model.load_weights("yolov3.weights")
 通过模型构建和权重加载，我们终于可以开始进行目标检测了。未来，我们还将介绍如何利用 objectness 置信度阈值和非极大值抑制生成最终的检测结果。
 
 原文链接：https://medium.com/paperspace/tutorial-on-implementing-yolo-v3-from-scratch-in-pytorch-part-1-a0054d38ec78
-
-
-本文为机器之心编译，转载请联系本公众号获得授权。
-✄------------------------------------------------
-加入机器之心（全职记者/实习生）：hr@jiqizhixin.com
-投稿或寻求报道：editor@jiqizhixin.com
-广告&商务合作：bd@jiqizhixin.com
-投诉
-
-微信扫一扫
-关注该公众号
